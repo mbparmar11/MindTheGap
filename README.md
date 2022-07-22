@@ -2,7 +2,7 @@
 A quick  2-player game based on tile compatability. 
 
 
-How to run from a shell window:
+***How to run from a shell window:***
 
 Open console (terminal, command.exe)
 
@@ -16,6 +16,6 @@ Run the code:
 
 java Driver
 
-               *** How to Play ***
+               ***How to Play***
 When the game runs, click on New Game to begin. Take turns to select a square until a winner is announced.  Click on 'New Game' to start a new game at any time.
-            ***  Enjoy the Game!  ***
+            ***Enjoy the Game!***
